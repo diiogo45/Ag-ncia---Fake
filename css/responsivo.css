@@ -38,43 +38,68 @@ height:100%;
 .header h2{
 font-size:15px;
 margin-bottom:12px;
-color: red;
 }
 .header p{
 font-size:13px;
 width:100%;
-color: black;
-font-weight: bold;
 text-align: left;
 }
 .botao{
 width:50%;
 padding:10px;
+}
+
 
 
 }
-}	
+
+
+
+
 @media  only screen and (max-width:414px) {
+
 .header p{
 width:100%;
-font-size:12px;
+font-size:13px;
 text-align: left;
 color: black;
+font-weight: bold;
+margin-left:15px;
 }
+
+
 .botao{
 width:90%;
-padding:12px;
+padding:10px;
+}
+.computador{
+margin-left:60px;
+}
+.phone{
+margin-left:60px;
+}
+.flecha{
+margin-left:60px;
 }
 }
 @media  only screen and (max-width:320px){
-
 .menu a{
 display: none;
 }
 .secao h3{
 text-align: center;
-
 }
+.computador{
+margin-left:40px;
+}
+.phone{
+margin-left:40px;
+}
+.flecha{
+margin-left:40px;
+}
+
+
 
 
 }
