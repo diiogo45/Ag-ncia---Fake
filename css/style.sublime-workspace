@@ -1,0 +1,906 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"jus",
+				"justify-all"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"spacing",
+				"letter-spacing"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"just",
+				"justify-all"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"spa",
+				"letter-spacing"
+			],
+			[
+				"head",
+				"headline"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"fle",
+				"flex-grow"
+			],
+			[
+				"spacin",
+				"letter-spacing"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"f",
+				"flex-start"
+			],
+			[
+				"fle-",
+				"flex-end"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"BOR",
+				"border"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"heade",
+				"headline"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"grid-tem",
+				"grid-template-areas"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"grid-col",
+				"grid-column-end"
+			],
+			[
+				"grid-auto",
+				"grid-auto-rows"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"mar-",
+				"margin-left"
+			],
+			[
+				"gree",
+				"greenyellow"
+			],
+			[
+				"getele",
+				"getElementById"
+			],
+			[
+				"drop",
+				"dropdown"
+			],
+			[
+				"list-styl",
+				"list-style-type"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"form-",
+				"form-control"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"mt",
+				"mt-5"
+			],
+			[
+				"p",
+				"p-5"
+			],
+			[
+				"mb",
+				"mb-5"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"camp",
+				"campo_sobrenome"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"min",
+				"mini-banners"
+			],
+			[
+				"min-",
+				"mino-banners"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"carou",
+				"carousel"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"com",
+				"Components"
+			],
+			[
+				"circl",
+				"circle-clipper"
+			],
+			[
+				"wh",
+				"white-text"
+			],
+			[
+				"mate",
+				"materialize"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"tex",
+				"textura2"
+			],
+			[
+				"whit",
+				"white-text"
+			],
+			[
+				"text",
+				"textura1"
+			],
+			[
+				"setime",
+				"setTimeout"
+			],
+			[
+				"card-",
+				"card-image"
+			],
+			[
+				"backgro",
+				"background-attachment"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"tabela-",
+				"tabela-pilates"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"func",
+				"funcional"
+			],
+			[
+				"fisioter",
+				"fisioterapia-modal"
+			],
+			[
+				"pila",
+				"pilates-modal"
+			],
+			[
+				"textura",
+				"textura2"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"side",
+				"side-nav"
+			],
+			[
+				"nav",
+				"nav-wrapper"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"grid",
+				"grid-row"
+			],
+			[
+				"templ",
+				"grid-template-columns"
+			],
+			[
+				"margin-r",
+				"margin-right"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"line",
+				"linear-gradient()"
+			],
+			[
+				"lin",
+				"linear-gradient()"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"function",
+				"Function"
+			],
+			[
+				"grid-ro",
+				"grid-row-gap"
+			],
+			[
+				"gri",
+				"grid-gap"
+			],
+			[
+				"grid-au",
+				"grid-auto-rows"
+			],
+			[
+				"tem",
+				"grid-template-columns"
+			],
+			[
+				"blu",
+				"blueviolet"
+			],
+			[
+				"grid-aut",
+				"grid-auto-rows"
+			],
+			[
+				"gridt",
+				"grid-template-rows"
+			],
+			[
+				"ora",
+				"floralwhite"
+			],
+			[
+				"pin",
+				"hotpink"
+			],
+			[
+				"lem",
+				"lime"
+			],
+			[
+				"dark",
+				"darkgreen"
+			],
+			[
+				"grid-r",
+				"grid-row"
+			],
+			[
+				"grid-",
+				"grid-template-columns"
+			],
+			[
+				"ALI",
+				"align-self"
+			],
+			[
+				"g",
+				"gold"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"style",
+				"list-style-type"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"t",
+				"text-decoration"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"aq",
+				"aquamarine"
+			],
+			[
+				"yell",
+				"yellowgreen"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"i",
+				"initial"
+			],
+			[
+				"TR",
+				"transform"
+			],
+			[
+				"blue",
+				"skyblue"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"te",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"term",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminu",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"TER",
+				"Terminus: Reset"
+			],
+			[
+				"t",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminus o",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Arithmetic"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Desktop/Praticando HTML & CSS/index.html",
+		"/C/Users/user/Desktop/Praticando HTML & CSS/css/style.css",
+		"/C/Users/user/Documents/ANKI FRASES.txt",
+		"/C/Users/user/Documents/Documentos com projetos básico HTML E CSS/Agência-fake/css/style.css",
+		"/C/Users/user/Desktop/HTML/index.html",
+		"/C/Users/user/Desktop/HTML/css/style.css",
+		"/C/Program Files/CPUID/HWMonitor/hwm_readme.txt",
+		"/C/Users/user/Documents/Documentos com projetos básico HTML E CSS/Agência-fake/index.html",
+		"/C/Users/user/Desktop/Praticando HTML & CSS/css/responsivo.css",
+		"/C/Users/user/Desktop/Agência-fake/index.html",
+		"/C/Users/user/Desktop/Agência-fake/css/responsivo.css",
+		"/C/Users/user/Documents/Músicas para baixar.txt",
+		"/C/Users/user/Desktop/Agência-fake/css/style.css",
+		"/C/Users/user/Desktop/CURSO CSS/index.html",
+		"/C/Users/user/Desktop/CURSO CSS/css/style.css",
+		"/C/Users/user/Desktop/CSS GRID/index.html",
+		"/C/Users/user/Desktop/CSS GRID/css/style.css",
+		"/C/Users/user/Documents/Pratica CSS GRID/index.html",
+		"/C/Users/user/Documents/Pratica CSS GRID/css/style.css",
+		"/C/Users/user/Desktop/Curso bootsreap 5/index.html",
+		"/C/Users/user/Desktop/Curso bootsreap 5/css/style.css",
+		"/C/Users/user/Desktop/Novo Documento de Texto.txt",
+		"/C/Users/user/Desktop/Curso bootsreap 5/scrollspy.html",
+		"/C/Users/user/Documents/Mandar Currículo/Carta de Apresentação CV.txt",
+		"/C/Users/user/Desktop/3806238.txt",
+		"/C/Users/user/Desktop/Praticando Bootstrap/index.html",
+		"/C/Users/user/Desktop/Doguinhos/index.html",
+		"/C/Users/user/Desktop/Doguinhos/js/switch.js",
+		"/C/Users/user/Desktop/CURSO CSS 2022/css/style.css",
+		"/C/Users/user/Desktop/CURSO CSS 2022/css/index.html",
+		"/C/Users/user/Desktop/CURSO CSS 2022/CSS/style.css",
+		"/C/Users/user/Desktop/CURSO CSS 2022/aula-css/index.html",
+		"/C/Users/user/Desktop/teste.html",
+		"/C/Users/user/Desktop/CURSO HTML 2022/aula-html/index.html",
+		"/C/Users/user/Desktop/CURSO HTML 2022/aula-css/index.html",
+		"/C/Users/user/Desktop/CURSO HTML 2022/aula-html/semantico.html",
+		"/C/Users/user/Desktop/CURSO HTML 2022/index.html",
+		"/C/Users/user/Desktop/Projeto com bootsrap/index.html",
+		"/C/Users/user/Desktop/Projeto com bootsrap/css/style.css",
+		"/C/Users/user/Desktop/Projeto com bootsrap/js/progressbar.min.js",
+		"/C/Users/user/Desktop/Projeto com bootsrap/js/script.js",
+		"/C/Users/user/Desktop/materialize/index.html",
+		"/C/Users/user/Desktop/materialize/css/custom.css",
+		"/C/Users/user/Desktop/centroboaforma/index.html",
+		"/C/Users/user/Desktop/centroboaforma/css/style.css",
+		"/C/Users/user/Desktop/centroboaforma/README.md",
+		"/C/Users/user/Desktop/centroboaforma/README.md.txt",
+		"/C/Users/user/Desktop/centroboaforma/css/custom.css",
+		"/C/Users/user/Documents/The Beach House/index.html",
+		"/C/Users/user/Documents/Documentos com projetos básico HTML E CSS/NodeShop/index.html",
+		"/C/Users/user/Desktop/Novo Documento de Texto (2).txt",
+		"/C/Users/user/Documents/Treinos Academia/index.html",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.785/custom.css",
+		"/C/Users/user/Documents/Treinos Academia/custom.css",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.708/custom.css",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.727/custom.css",
+		"/C/Users/user/Desktop/centroboaforma/css/materialize.css",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.362/materialize.css",
+		"/C/Users/user/Desktop/materialize/css/materialize.min.css",
+		"/C/Users/user/Desktop/materialize/css/materialize.css",
+		"/C/Users/user/Desktop/materialize/README.md",
+		"/C/Users/user/Desktop/Sites profissionais/index.html",
+		"/C/Users/user/Desktop/Sites profissionais/css/style.css",
+		"/C/Users/user/Desktop/Media Query/css/style.css",
+		"/C/Users/user/Desktop/Media Query/index.html",
+		"/C/Users/user/Desktop/MEDIA-QUERY-main/README.md",
+		"/C/Users/user/Desktop/Media Query/css/index.html",
+		"/C/Users/user/Desktop/HTML SEMANTICO/index.html",
+		"/C/Users/user/Desktop/HTML SEMANTICO/css/style.css",
+		"/C/Users/user/Desktop/Example/index.html",
+		"/C/Users/user/Desktop/Nodeprop/css/style.css",
+		"/C/Users/user/Documents/CSS GRID/css/style.css",
+		"/C/Users/user/Desktop/filmeWebsite-main/index.html",
+		"/C/Users/user/Desktop/Huddle---Learning-main/index.html",
+		"/C/Users/user/Desktop/Nodeprop/index.html",
+		"/C/Users/user/Desktop/Nodeprop/README.md.txt",
+		"/C/Users/user/Desktop/Mobile/index.html",
+		"/C/Users/user/Desktop/Mobile/css/style.css",
+		"/C/Users/user/Downloads/Spotify Music Premium v8.5.3.716 {B4tman}/Readme!.txt",
+		"/C/Users/user/Desktop/Design responsivo/css/style.css",
+		"/C/Users/user/Desktop/Design responsivo/index.html",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.193/style.css",
+		"/C/Users/user/Desktop/index.html",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.499/style.css",
+		"/C/Users/user/Desktop/Informaçãoes.txt",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.839/style.css",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.280/style.css",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.048/style.css",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.834/style.css",
+		"/C/Users/user/Desktop/Border Box/index.html",
+		"/C/Users/user/Desktop/Border Box/css/style.css",
+		"/C/Users/user/Desktop/Practice/css/style.css",
+		"/C/Users/user/Desktop/treino.cfg.txt",
+		"/C/Users/user/Desktop/Practice/index.html",
+		"/C/Users/user/Desktop/Pratica/index.html",
+		"/C/Users/user/Desktop/Pratica/css/style.css",
+		"/C/Users/user/Desktop/Pratica CSS GRID/css/style.css",
+		"/C/Users/user/Desktop/Pratica CSS GRID/index.html",
+		"/C/Users/user/Desktop/Pratica CSS GRID/README.md",
+		"/C/Users/user/Desktop/Pratica CSS GRID/css/index.html",
+		"/C/Users/user/Desktop/Curso CSS GRID atualizado 2022/index.html",
+		"/C/Users/user/Desktop/Curso CSS GRID atualizado 2022/css/style.css",
+		"/C/Users/user/Desktop/Nova pasta/css/style.css",
+		"/C/Users/user/Desktop/Nova pasta/index.html",
+		"/C/Users/user/Desktop/Flexbox/css/style.css",
+		"/C/Users/user/Desktop/Flexbox/index.html",
+		"/C/Users/user/Documents/Cursos a aprender para  vaga emprego/Novo Documento de Texto.txt",
+		"/C/Users/user/Documents/GIT & GIT HUB  na pratica/praticando.txt",
+		"/C/Users/user/Documents/GIT & GIT HUB  na pratica/testando.txt",
+		"/C/Users/user/Documents/Informações Cursos,FGTS,INSS ETC/FGT!!.txt",
+		"/C/Users/user/Documents/Informações Cursos,FGTS,INSS ETC/INSS 11%.txt",
+		"/C/Users/user/Documents/Informações Cursos,FGTS,INSS ETC/INSS.txt",
+		"/C/Users/user/Documents/Informações Cursos,FGTS,INSS ETC/Cursos para  assistir.txt",
+		"/C/Users/user/Documents/Flexbox/flexbox.html",
+		"/C/Users/user/Documents/Flexbox/Pratica HTML,CSS/index.html",
+		"/C/Users/user/Documents/Flexbox/Pratica HTML,CSS/css/style.css",
+		"/C/Users/user/Documents/Flexbox/Praticando Flexbox/index.html",
+		"/C/Users/user/Documents/Flexbox/Praticando Flexbox/css/style.css",
+		"/C/Users/user/Documents/Flexbox/css/flexbox.css",
+		"/C/Users/user/Documents/Flexbox/index.html",
+		"/C/Users/user/Documents/Flexbox/css/style.css",
+		"/C/Users/user/Documents/Informações Cursos,FGTS,INSS ETC/Baixar músicas.txt",
+		"/C/Users/user/Documents/Flexbox/menucss/flexbox.css",
+		"/C/Users/user/Documents/Flexbox/css/flexboxcss",
+		"/C/Users/user/Documents/Flexbox/menuflexbox.html",
+		"/C/Users/user/Documents/Metas da semana/Novo Documento de Texto.txt",
+		"/C/Users/user/Desktop/Carta de Apresentação CV.txt",
+		"/C/Users/user/Desktop/ANKI FRASES.txt"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 257.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"bt2"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

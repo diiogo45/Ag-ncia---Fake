@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+*{
+box-sizing: border-box;
+
+
+}
+.navbar{
+display: flex;
+align-items: center;
+background:white;
+flex-wrap: wrap;
+position: fixed;
+width:100%;
+top:0;
+
+
+
+}
+
+
+
+.logo h1 {
+color:#180f4a;
+font-size:35px;
+font-weight:bold;
+font-family: 'Lobster', cursive;
+
+}
+
+
+
+.logo{
+flex:20%;
+margin-left:10%;
+text-align: center;
+}
+
+
+
+.menu a{
+text-decoration:none;
+margin-right:20px;
+font-size:20px;
+color:#180f4a;
+}
+
+
+
+
+.menu a:hover{
+color:#ff2978
+}
+#fale-conosco{
+background:#180f4a;
+padding:10px;
+border-radius:10px;
+color:white;
+}
+#fale-conosco:hover{
+background:#ff2978;
+}
+.header{
+display: flex;
+flex-flow:row wrap;
+margin-top:100px;
+
+
+}
+
+.headline{
+margin-left:10%;
+flex:20%;
+
+}
+
+.img-headline{
+
+
+flex:20%;
+
+}
+.header p{
+color:grey;
+font-size:18px;
+margin-left:10%;
+text-align:justify;
+
+
+}
+.botao{
+
+padding:20px;
+border-radius:15px;
+width:40%;
+border:none;
+color:white;
+background:#ff2978;
+margin-left:10%;
+text-transform: uppercase;
+font-weight:bold;
+
+
+}
+.botao:hover{
+background:#180f4a;
+}
+.img{
+max-width:100%;
+height:400px;
+}
+.secao h3{
+font-size:30px;
+font-family: 'Lobster', cursive;
+color:#180f4a;
+text-align: center;
+}
+
+.secao h4,p{
+text-align: center;	
+}
+
+
+
+
+.card {
+display: inline-block;
+width:25%;
+border:1px solid #ff2978;
+padding:5px;
+height:300px;
+margin-left:50px;
+
+}
+
+.computador{
+margin-left:40%;	
+}
+.flecha{
+margin-left:40%;
+}
+.phone{
+margin-left:40%;
+}
+h1{
+text-align: center;
+font-family: 'Lobster', cursive;
+}
+.footer{
+background-image:linear-gradient(180deg,#180F4A, #090422,black);
+border-top:6px solid #ff2978;
+height:400px;
+margin-top:100px;
+
+
+}
+
+.footer h1{
+color:white; 
+font-weight: bold;
+}
+.footer p{
+color:white; 
+font-weight: bold;
+font-size:18px;
+}
